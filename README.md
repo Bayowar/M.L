@@ -34,9 +34,9 @@ Variables are detailed in each project.
    
   **Data Exploration**
 
-  ** Data and Statistical Analysis **
+  **Data and Statistical Analysis**
 
-  ** Visualization **
+  **Visualization**
    
   **Modeling**
    
