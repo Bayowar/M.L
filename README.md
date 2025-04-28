@@ -1,0 +1,49 @@
+# Breast Cancer Risk Prediction with Machine Learning
+
+This repository contains the code and documentation for a project focused on  using machine learning techniques. One of such projects utilizes open source dataset to analyze the impact of imaging biomarkers and social factors on breast cancer progression and the other utilizes open source data to analyze automobile features.
+
+## Project Overview
+
+* Exploration and development of machine learning models in various fields.
+   
+* Provide insights on various models. 
+
+## Data
+
+The data used is mostly open-source from platforms like Kaggle, B.C.S.C etc. 
+
+### Datasets
+
+* **Kaggle Auto Dataset:** Contains vehicle information and performance specifications.
+
+* **BCSC Risk Factors Dataset:** Contains information on mammograms, including patient characteristics associated with breast cancer risk. 
+   
+* **BCSC Mammography Screening Performance Dataset:** Includes data from screening mammograms. 
+
+### Key Variables
+
+Variables are detailed in each project.
+
+
+## Methodology
+
+   
+  **Data Collection**
+   
+  **Data Cleaning**
+   
+  **Data Exploration**
+
+  ** Data and Statistical Analysis **
+
+  ** Visualization **
+   
+  **Modeling**
+   
+ **Evaluation**
+   
+
+### Machine Learning Models
+
+The projects  apply various supervised and unsupervised machine learning models as needed.
+
