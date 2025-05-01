@@ -41,19 +41,19 @@ Variables are detailed in each project.
 ## Methodology
 
    
-  **Data Collection**
+  * `Data Collection`
    
-  **Data Cleaning**
+  * `Data Cleaning`
    
-  **Data Exploration**
+  * `Data Exploration`
 
-  **Data and Statistical Analysis**
+  * `Data and Statistical Analysis`
 
-  **Visualization**
+  * `Visualization`
    
-  **Modeling**
+  * `Modeling`
    
- **Evaluation**
+  * `Evaluation`
    
 
 ### Machine Learning Models
