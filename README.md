@@ -16,9 +16,22 @@ The data used is mostly open-source from platforms like Kaggle, B.C.S.C etc.
 
 * **Kaggle Auto Dataset:** Contains vehicle information and performance specifications.
 
-* **BCSC Risk Factors Dataset:** Contains information on mammograms, including patient characteristics associated with breast cancer risk. * [https://www.bcsc-research.org/datasets](https://www.bcsc-research.org/index.php/datasets)
+* **BCSC Risk Factors Dataset:** Contains information on mammograms, including patient characteristics associated with breast cancer risk. [https://www.bcsc-research.org/datasets](https://www.bcsc-research.org/index.php/datasets)
    
-* **BCSC Mammography Screening Performance Dataset:** Includes data from screening mammograms. * [https://www.bcsc-research.org/datasets](https://www.bcsc-research.org/index.php/datasets)
+* **BCSC Mammography Screening Performance Dataset:** Includes data from screening mammograms. [https://www.bcsc-research.org/datasets](https://www.bcsc-research.org/index.php/datasets)
+
+###   Dependencies
+
+To run the code, you will need the following Python libraries:
+
+* `numpy`
+* `pandas`
+* `matplotlib`
+* `seaborn`
+* `sklearn` (scikit-learn)
+* `category_encoders`
+* `statsmodels`
+* `xgboost` etc.
 
 ### Key Variables
 
@@ -46,4 +59,5 @@ Variables are detailed in each project.
 ### Machine Learning Models
 
 The projects  apply various supervised and unsupervised machine learning models as needed.
+Mathews correlation coefficient will be applied across all relevant model evaluations as a model update and further updates will be noted with any commits.
 
