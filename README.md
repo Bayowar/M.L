@@ -16,9 +16,9 @@ The data used is mostly open-source from platforms like Kaggle, B.C.S.C etc.
 
 * **Kaggle Auto Dataset:** Contains vehicle information and performance specifications.
 
-* **BCSC Risk Factors Dataset:** Contains information on mammograms, including patient characteristics associated with breast cancer risk. 
+* **BCSC Risk Factors Dataset:** Contains information on mammograms, including patient characteristics associated with breast cancer risk. * [https://www.bcsc-research.org/datasets](https://www.bcsc-research.org/index.php/datasets)
    
-* **BCSC Mammography Screening Performance Dataset:** Includes data from screening mammograms. 
+* **BCSC Mammography Screening Performance Dataset:** Includes data from screening mammograms. * [https://www.bcsc-research.org/datasets](https://www.bcsc-research.org/index.php/datasets)
 
 ### Key Variables
 
